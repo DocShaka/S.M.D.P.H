@@ -7,7 +7,7 @@ colorama
 art
 termcolor
 tqdm
-webbrows
+webbrowser
 
 TIPS : 
 
