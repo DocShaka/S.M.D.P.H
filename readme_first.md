@@ -1,13 +1,7 @@
 un troll ou vous accédé aux Stockage Modiale de Donnée Personnelle Hacké et qui possédent des screemeur quelque soit la finalité que l'utilisateur fait.
 
 Veillez installer les library suivante pour que le script fonctionne :
-random
-faker
-colorama
-art
-termcolor
-tqdm
-webbrowser
+[ random,faker,colorama,art,termcolor,tqdm,webbrowser ]
 
 TIPS : 
 
